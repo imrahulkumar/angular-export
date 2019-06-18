@@ -10,8 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
  
  - [json2csv](https://www.npmjs.com/package/json2csv) is use to convert the comma separted value.
  - [file-saver](https://www.npmjs.com/package/file-saver) is use to download the file desired extension.
- -  [jsPDF](https://www.npmjs.com/package/jspdf) and [jspdfAutotable]
- (https://www.npmjs.com/package/jspdf-autotable/v/2.0.9) are used to write in the pdf.
+ -  [jsPDF](https://www.npmjs.com/package/jspdf) and [jspdfAutotable](https://www.npmjs.com/package/jspdf-autotable/v/2.0.9) are used to write in the pdf.
 
 ## Deployed at surge 
 
