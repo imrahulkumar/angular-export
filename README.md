@@ -15,4 +15,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Deployed at surge 
 
  - Project is deployed in [Surge](https://surge.sh/)
- - Hosted at [angular-export](voracious-debt.surge.sh)
+ - Hosted at [angular-export](http://voracious-debt.surge.sh/)
